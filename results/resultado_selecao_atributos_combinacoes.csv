@@ -1,0 +1,19 @@
+experimento,acuracia,kappa
+Tier 1 Reforçado + Tier 2 Reforçado — TODOS os atributos (baseline),57.68,0.3185
+Tier 1 Reforçado + Tier 2 Reforçado — Ranker top 50 (Info. Mútua),52.93,0.2466
+Tier 1 Reforçado + Tier 2 Reforçado — Ranker top 100 (Info. Mútua),53.39,0.2517
+Tier 1 Reforçado + Tier 2 Reforçado — Ranker top 200 (Info. Mútua),55.93,0.294
+Tier 1 Reforçado + Tier 2 Reforçado — Ranker top 100 (ANOVA/Correlação),56.59,0.3113
+Tier 1 Reforçado + Tier 2 Reforçado — BestFirst/RFE (50 atributos),52.63,0.2397
+Tier 1 + Tier 2 + Tema — TODOS os atributos (baseline),57.72,0.3176
+Tier 1 + Tier 2 + Tema — Ranker top 50 (Info. Mútua),52.6,0.2414
+Tier 1 + Tier 2 + Tema — Ranker top 100 (Info. Mútua),54.99,0.2794
+Tier 1 + Tier 2 + Tema — Ranker top 200 (Info. Mútua),56.78,0.3085
+Tier 1 + Tier 2 + Tema — Ranker top 100 (ANOVA/Correlação),56.13,0.3036
+Tier 1 + Tier 2 + Tema — BestFirst/RFE (50 atributos),53.39,0.2541
+Tier 1 Reforçado + Tier 3 BERT (PCA) — TODOS os atributos (baseline),58.45,0.3253
+Tier 1 Reforçado + Tier 3 BERT (PCA) — Ranker top 50 (Info. Mútua),58.99,0.3489
+Tier 1 Reforçado + Tier 3 BERT (PCA) — Ranker top 100 (Info. Mútua),58.62,0.3396
+Tier 1 Reforçado + Tier 3 BERT (PCA) — Ranker top 200 (Info. Mútua),58.8,0.3392
+Tier 1 Reforçado + Tier 3 BERT (PCA) — Ranker top 100 (ANOVA/Correlação),60.18,0.3668
+Tier 1 Reforçado + Tier 3 BERT (PCA) — BestFirst/RFE (50 atributos),61.05,0.3805

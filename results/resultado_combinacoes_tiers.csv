@@ -1,0 +1,4 @@
+experimento,n_atributos,acuracia,kappa,mcc_geral
+Tier 1 Reforçado + Tier 2 Reforçado,1542,57.68,0.3186,0.3298
+Tier 1 + Tier 2 + Tema (combo interpretável completo),1543,57.72,0.3177,0.3296
+Tier 1 Reforçado + Tier 3 BERT (PCA),697,58.45,0.3254,0.3396

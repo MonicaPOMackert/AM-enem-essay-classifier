@@ -1,0 +1,13 @@
+experimento,acuracia,kappa
+Tier 1 reforçado — TODOS os atributos (baseline),57.64,0.3171
+Tier 1 reforçado — Ranker top 50 (Info. Mútua),52.8,0.2442
+Tier 1 reforçado — Ranker top 100 (Info. Mútua),54.79,0.2748
+Tier 1 reforçado — Ranker top 200 (Info. Mútua),56.32,0.2977
+Tier 1 reforçado — Ranker top 100 (ANOVA/Correlação),58.25,0.3354
+Tier 1 reforçado — BestFirst/RFE (50 atributos),54.35,0.2698
+Tier 2 reforçado — TODOS os atributos (baseline),57.13,0.3051
+Tier 2 reforçado — Ranker top 50 (Info. Mútua),52.45,0.2365
+Tier 2 reforçado — Ranker top 100 (Info. Mútua),55.45,0.2835
+Tier 2 reforçado — Ranker top 200 (Info. Mútua),54.75,0.2715
+Tier 2 reforçado — Ranker top 100 (ANOVA/Correlação),56.26,0.3023
+Tier 2 reforçado — BestFirst/RFE (50 atributos),53.76,0.2593

@@ -1,0 +1,7 @@
+experimento,modelo,acuracia,kappa
+MULTICLASSE (4 classes - original),SMO / SVM (C=1.0),59.69,0.3832
+MULTICLASSE (4 classes - original),Random Forest (100 árvores),56.41,0.2899
+MULTICLASSE (4 classes - original),J48 / Decision Tree,47.86,0.2044
+BINÁRIO (Aprovado vs Insuficiente),SMO / SVM (C=1.0),90.07,0.3412
+BINÁRIO (Aprovado vs Insuficiente),Random Forest (100 árvores),88.91,0.0375
+BINÁRIO (Aprovado vs Insuficiente),J48 / Decision Tree,85.69,0.1893

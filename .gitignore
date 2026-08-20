@@ -1,0 +1,20 @@
+# Dados grandes (gere localmente rodando os scripts, veja o README)
+*.arff
+*.csv
+!results/*.csv
+!data/feature_tema.csv
+*.zip
+
+# Ambiente Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ferramentas locais
+.claude/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

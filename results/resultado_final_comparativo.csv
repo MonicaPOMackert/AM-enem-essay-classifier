@@ -1,0 +1,5 @@
+experimento,acuracia,kappa
+Tier 1 reforçado (sozinho),57.64,0.3171
+Tier 1 reforçado + feature de tema,58.03,0.3232
+Tier 2 reforçado (sozinho),57.13,0.3051
+Tier 2 reforçado + feature de tema,56.74,0.299
